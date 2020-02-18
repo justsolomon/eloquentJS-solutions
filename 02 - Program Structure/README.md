@@ -13,7 +13,7 @@ triangle:
 ######
 #######
 
-[View solution to this exercise]()
+[View solution to this exercise](https://github.com/Solomon403/eloquentJS-solutions/blob/master/02%20-%20Program%20Structure/triangle.js)
 
 ##FizzBuzz
 
@@ -24,7 +24,7 @@ number, and for numbers divisible by 5 (and not 3), print "Buzz" instead.
 numbers that are divisible by both 3 and 5 (and still print "Fizz" or "Buzz"
 for numbers divisible by only one of those).
 
-[View solution to this exercise]()
+[View solution to this exercise](https://github.com/Solomon403/eloquentJS-solutions/blob/master/02%20-%20Program%20Structure/fizzbuzz.js)
 
 ##Chessboard
 
@@ -44,4 +44,4 @@ When you have a program that generates this pattern, define a binding size
 = 8 and change the program so that it works for any size, outputting a grid
 of the given width and height.
 
-[View solution to this exercise]()
+[View solution to this exercise](https://github.com/Solomon403/eloquentJS-solutions/blob/master/02%20-%20Program%20Structure/chessboard.js)
