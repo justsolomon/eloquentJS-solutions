@@ -1,12 +1,12 @@
-#Exercises
+# Exercises
 
-##Minimum
+## Minimum
 
 Write a function `min` that takes two arguments and returns their minimum.
 
 [View solution to this exercise](https://github.com/Solomon403/eloquentJS-solutions/blob/master/03%20-%20Functions/minimum.js)
 
-##Recursion
+## Recursion
 
 We’ve seen that % (the remainder operator) can be used to test whether a
 number is even or odd by using % 2 to see whether it’s divisible by two. Here’s
@@ -24,7 +24,7 @@ way to fix this?
 
 [View solution to this exercise](https://github.com/Solomon403/eloquentJS-solutions/blob/master/03%20-%20Functions/recursion.js)
 
-##Bean Counting
+## Bean Counting
 
 You can get the Nth character, or letter, from a string by writing `"string"[N]`.
 The returned value will be a string containing only one character (for example,
