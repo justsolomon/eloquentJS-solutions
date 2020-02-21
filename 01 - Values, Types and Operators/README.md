@@ -1,3 +1,3 @@
-#Exercises
+# Exercises
 
-No exercises for this chapter.
+There are no exercises for this chapter.
