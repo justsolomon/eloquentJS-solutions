@@ -22,4 +22,4 @@ Arrays have a `reverse` method that changes the array by inverting the order in 
 
 Thinking back to the notes about side effects and pure functions in the [previous chapter](https://eloquentjavascript.net/03_functions.html#h_EdyBGBF6y/), which variant do you expect to be useful in more situations? Which one runs faster?
 
-[View solution to this exercise]()
+[View solution to this exercise](https://github.com/Solomon403/eloquentJS-solutions/blob/master/04%20-%20Data%20Structures:%20Objects%20and%20Arrays/array-reverse.js)
