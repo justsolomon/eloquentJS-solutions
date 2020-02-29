@@ -9,3 +9,5 @@ This repository contains a documentation of my solutions to the exercises at the
 * [Chapter 2 - Program Structure](https://github.com/Solomon403/eloquentJS-solutions/tree/master/02%20-%20Program%20Structure)
 
 * [Chapter 3 - Functions](https://github.com/Solomon403/eloquentJS-solutions/tree/master/03%20-%20Functions)
+
+* [Chapter 4 - Data Structures: Objects and Arrays](https://github.com/Solomon403/eloquentJS-solutions/tree/master/04%20-%20Data%20Structures:%20Objects%20and%20Arrays)
